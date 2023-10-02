@@ -1,5 +1,5 @@
 import "./sidebar.css"
-import Me from "../assets/me.jpeg"
+import Me from "../../assets/me.jpeg"
 
 const Sidebar = () => {
   return (
